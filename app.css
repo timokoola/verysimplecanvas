@@ -1,0 +1,15 @@
+.container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #222222;
+    color: whitesmoke;
+    height: 3em;
+}
+
+footer {
+    background-color: #222222;
+    color: whitesmoke;
+    height: 3em;
+}
